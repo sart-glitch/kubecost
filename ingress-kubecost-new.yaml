@@ -10,7 +10,7 @@ metadata:
 spec:
   ingressClassName: alb
   rules:
-  - host: kubecost-preprod.anxilla.com
+  - host: kubecost.domain.com
     http:
       paths:
       - backend:
